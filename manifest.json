@@ -1,0 +1,21 @@
+{
+  "short_name": "LeaveHomeSafe",
+  "name": "LeaveHomeSafe",
+  "icons": [
+    {
+      "src": "./icon.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon_maskable.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#51ae8a",
+  "background_color": "#51ae8a"
+}
