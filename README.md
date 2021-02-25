@@ -1,7 +1,7 @@
 # Leave Home Play Safe Bundle
   
 ## 📄 About 
-**LeaveHomePlaySafeBundle** is a bundle of [LeaveHomeSafe](https://www.leavehomesafe.gov.hk/en/)'s PWA clone for avoiding HK government tracking. Here's the [status page](http://leavehomeplaysafe.statuspage.io/).
+**LeaveHomePlaySafeBundle** is a bundle of [LeaveHomeSafe](https://www.leavehomesafe.gov.hk/en/)'s PWA clone for learning purpose. Here's the [status page](http://leavehomeplaysafe.statuspage.io/).
 
 
 
